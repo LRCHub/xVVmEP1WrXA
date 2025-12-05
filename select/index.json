@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Small world",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-05T04:22:26.929132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who Not Me (feat. Small World and Dolla Boy)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/01_Who_Not_Me_(feat._Small_World_and_Dolla_Boy)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's A Small World",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/02_It's_A_Small_World_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Small World",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/03_Small_World_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Small World, Part 1",
+      "artist": "Huey Lewis and The News",
+      "has_synced": false,
+      "path": "select/04_Small_World,_Part_1_Huey_Lewis_and_The_News.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Small World, Part 2",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/05_Small_World,_Part_2_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Small World",
+      "artist": "Small World",
+      "has_synced": false,
+      "path": "select/06_Small_World_Small_World.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Small World",
+      "artist": "Jack Stauber",
+      "has_synced": true,
+      "path": "select/07_Small_World_Jack_Stauber.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Big Lie Small World",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/08_Big_Lie_Small_World_Sting.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Small World",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/09_Small_World_Madness.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Small World (Live)",
+      "artist": "Idina Menzel",
+      "has_synced": true,
+      "path": "select/10_Small_World_(Live)_Idina_Menzel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's a Small World",
+      "artist": "Baha Men",
+      "has_synced": true,
+      "path": "select/11_It's_a_Small_World_Baha_Men.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's Such A Small World",
+      "artist": "Rodney Crowell & Rosanne Cash",
+      "has_synced": true,
+      "path": "select/12_It's_Such_A_Small_World_Rodney_Crowell_&_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Such A Small World (Album Version)",
+      "artist": "Rodney Crowell, Rosanne Cash",
+      "has_synced": true,
+      "path": "select/13_It's_Such_A_Small_World_(Album_Version)_Rodney_Crowell,_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's a Small World",
+      "artist": "Mike Curb Congregation",
+      "has_synced": false,
+      "path": "select/14_It's_a_Small_World_Mike_Curb_Congregation.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "IT'S A SMALL WORLD",
+      "artist": "Walt Disney",
+      "has_synced": false,
+      "path": "select/15_IT'S_A_SMALL_WORLD_Walt_Disney.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's A Small World",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/16_It's_A_Small_World_Disney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Small world",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_Small_world_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
